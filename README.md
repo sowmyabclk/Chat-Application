@@ -1,4 +1,4 @@
-# Chat Application: A single page - multi-user chat application to send and receive messages
+### Chat Application: A single page - multi-user chat application to send and receive messages
 
 ### Web Technologies Used
 HTML,CSS,ExpressJS, NodeJS, Polling mechanism
